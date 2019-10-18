@@ -1,4 +1,4 @@
-Avant tout il faut définir un utilisateur Git pour pouvoir utiliser ce dernier.
+Avant tout il faut définir un utilisateur Git pour pouvoir utiliser ce dernier. 
 
 git config --global user.name Prénom
 
