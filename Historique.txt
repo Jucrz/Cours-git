@@ -81,4 +81,4 @@ git reset --soft HEAD-1
 
 Et si vous voulez totalement le supprimer il suffit d'utiliser :
 
-git reset --hard HEAD-1
+git reset --hard HEAD-1 
