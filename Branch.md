@@ -48,4 +48,4 @@ git stash drop
 
 Vous pouvez créer des tags annotés :
 
-git -a v1.0 -m "Descriptif du tag"
+git -a v1.0 -m "Descriptif du tag" 
